@@ -1,4 +1,5 @@
 
+
 # AWS EC2 Web Server Deployment and EBS Persistence
 
 ## Project Overview
@@ -63,3 +64,7 @@ Never commit AWS credentials, access keys, private keys, passwords, or other sec
 
 ## Project Status
 Initial EC2 deployment, Nginx validation, networking review, and EBS stop/start persistence experiment completed.
+
+# aws-ec2-nginx-deployment
+Hands-on AWS project covering EC2, Nginx deployment, networking, EBS persistence, and troubleshooting.
+
